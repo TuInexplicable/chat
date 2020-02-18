@@ -7,7 +7,7 @@ import java.io.IOException;
 
 public class GetMessage {
 	static public String getMessage(String filename) throws IOException {
-		File file = new File("I:\\聊天纪录/"+filename+".properties");
+		File file = new File("..\\..\\聊天纪录\\"+filename+".properties");
 		String tips="" ;
 		if(!file.exists()) {
 			tips = "无记录";
