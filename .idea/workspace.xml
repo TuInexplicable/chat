@@ -2,103 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1f9506bf-d141-441a-8234-a9b9addd4346" name="Default" comment="chat">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.classpath" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.project" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.settings/.jsdtscope" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.settings/org.eclipse.core.resources.prefs" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.settings/org.eclipse.wst.common.component" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.settings/org.eclipse.wst.common.project.facet.core.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.settings/org.eclipse.wst.jsdt.ui.superType.container" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.settings/org.eclipse.wst.jsdt.ui.superType.name" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ChattingHouse.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/ChatWindow.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/META-INF/MANIFEST.MF" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/lib/gson-2.2.4.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/lib/mysql-connector-java-5.1.47.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/lib/servlet-api.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/web.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/css/ChatWindow.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/css/Login.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/css/Register.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/img/2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/img/back1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/img/common/A.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/img/common/cut.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/img/common/emoj.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/img/common/fangdajing-hui.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/img/common/photo.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/img/common/sendProject.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/img/common/窗口抖动.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/img/common/语音.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/img/darks/pic01.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/img/darks/pic02.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/img/darks/pic03.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/img/darks/pic05.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/img/边框.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/js/jquery.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/login.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/register.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/classes/Oracle_link.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/classes/dao/Myoracle.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/classes/dao/SelectOperate.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/classes/dao/UpdateOperate.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/classes/domain/OnlineBean.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/classes/domain/UserBean.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/classes/service/AddOnlineUser.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/classes/service/AddUsers.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/classes/service/Checkuser.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/classes/service/DelOnlineuser.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/classes/service/Equipment.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/classes/service/GetMessage.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/classes/service/Save.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/classes/service/SendMessage.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/classes/service/Sumuser.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/classes/service/Users.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/classes/servlet/ChatServlet.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/classes/servlet/ChatwindowServlet.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/classes/servlet/DelOnlineuserServlet.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/classes/servlet/LoginServlet.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/classes/servlet/MessageServlet.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/classes/servlet/OnlineUsersServlet.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/classes/servlet/RegisterServlet.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/classes/servlet/SavaServlet.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/classes/servlet/SearchUsersServlet.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/classes/servlet/SumServlet.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/classes/servlet/UsersServlet.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Oracle_link.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/dao/Myoracle.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/dao/SelectOperate.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/dao/UpdateOperate.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/domain/OnlineBean.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/domain/UserBean.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/service/AddOnlineUser.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/service/AddUsers.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/service/Checkuser.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/service/DelOnlineuser.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/service/Equipment.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/service/GetMessage.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/service/Save.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/service/SendMessage.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/service/Sumuser.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/service/Users.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/servlet/ChatServlet.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/servlet/ChatwindowServlet.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/servlet/DelOnlineuserServlet.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/servlet/LoginServlet.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/servlet/MessageServlet.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/servlet/OnlineUsersServlet.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/servlet/RegisterServlet.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/servlet/SavaServlet.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/servlet/SearchUsersServlet.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/servlet/SumServlet.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/servlet/UsersServlet.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/聊天纪录/发.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/聊天纪录/发.properties" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change beforePath="$PROJECT_DIR$/src/聊天纪录/发.properties" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/聊天纪录/发.properties" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/build/classes/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -108,12 +15,46 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="60">
+                <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Save.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/service/Save.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="10" column="39" lean-forward="false" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -144,10 +85,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -155,10 +92,25 @@
               <item name="ChattingHouse" type="b2602c69:ProjectViewProjectNode" />
               <item name="ChattingHouse" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="ChattingHouse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ChattingHouse" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ChattingHouse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ChattingHouse" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -276,42 +228,45 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582006956780</updated>
-      <workItem from="1582006966799" duration="757000" />
+      <workItem from="1582006966799" duration="2014000" />
+      <workItem from="1582014315685" duration="1029000" />
+      <workItem from="1582015415098" duration="113000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="757000" />
+    <option name="totallyTimeSpent" value="3156000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="22" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32901135" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32901135" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.6399395" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29425114" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -326,5 +281,26 @@
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/service/Save.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="39" lean-forward="false" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="60">
+            <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
