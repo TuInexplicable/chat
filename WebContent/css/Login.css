@@ -1,0 +1,115 @@
+@charset "UTF-8";
+
+		
+		body{
+
+			font-size: 15px;font-family: "宋体"；
+		}
+		body,form,input,p{padding: 0;margin: 0;border:0;}
+
+		.box0{
+			width: 500px;
+			height: 300px;
+			position:absolute;
+			top:30%;
+			left:30%;
+		}
+
+		.box1{
+
+			padding-top: 15px;
+			padding-bottom: 10px;
+			color: white;
+			
+			
+			background-color: #2F4F4F;
+			font-size: 25px;
+		}
+
+		.box2{
+			background:#DCDCDC;
+			background-image: url(back1.jpg);
+			background-image: url(../img/back1.jpg);
+	 }
+
+		.box3{
+			background-color: #D3D3D3;
+			padding-top: 10px;
+			padding-bottom: 10px;
+		}
+
+		.box1 p{
+			margin-top: 0px;
+		}
+
+		.box3 p{
+			margin-top: 0px;
+			text-align: left;
+		}
+
+
+		form{
+
+			width: 400px;
+			height: 180px;
+			padding-top:35px;
+			margin:0 auto ;
+/*			background:#DCDCDC;
+*/		}
+
+		p{
+			margin-top: 15px;
+			text-align: center;
+		}
+
+		p span{
+			width: 40px;	
+			text-align: right;
+		}
+
+		.num,.pass{
+			width: 146px;
+			height:20px;
+			border:1px solid #2F4F4F;
+			padding: 2px 2px 2px 32px;
+		}
+
+		.num{
+			color: #999;
+		}
+
+		.btn01,.btn02{
+			width: 60px;
+			height: 25px;
+			border-radius: 3px;
+			border:1px solid #2F4F4F;
+			margin-left: 30px;
+		}
+
+		.btn01{
+			background:#5E9EA0;
+		}
+
+		.btn02{
+			background:#B0E0E6;
+		}
+			
+		.btn01:hover{
+			background-color: #2F4F4F;
+			color: white;
+
+			
+		}
+		.btn02:hover{
+			background-color: #2F4F4F;
+			color: white;
+			
+		}
+/*		.btn02: {
+			background-color: black;
+		}*/
+		#checkname,#checkpassword{
+			color: red;
+			visibility:hidden;
+		}
+

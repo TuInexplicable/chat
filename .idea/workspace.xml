@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1f9506bf-d141-441a-8234-a9b9addd4346" name="Default" comment="chat">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.classpath" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.project" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.settings/.jsdtscope" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.settings/org.eclipse.core.resources.prefs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.settings/org.eclipse.wst.common.component" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.settings/org.eclipse.wst.common.project.facet.core.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.settings/org.eclipse.wst.jsdt.ui.superType.container" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.settings/org.eclipse.wst.jsdt.ui.superType.name" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ChattingHouse.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/ChatWindow.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/META-INF/MANIFEST.MF" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/lib/gson-2.2.4.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/lib/mysql-connector-java-5.1.47.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/lib/servlet-api.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/web.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/css/ChatWindow.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/css/Login.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/css/Register.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/img/2.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/img/back1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/img/common/A.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/img/common/cut.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/img/common/emoj.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/img/common/fangdajing-hui.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/img/common/photo.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/img/common/sendProject.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/img/common/窗口抖动.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/img/common/语音.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/img/darks/pic01.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/img/darks/pic02.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/img/darks/pic03.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/img/darks/pic05.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/img/边框.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/js/jquery.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/login.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/register.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/classes/Oracle_link.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/classes/dao/Myoracle.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/classes/dao/SelectOperate.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/classes/dao/UpdateOperate.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/classes/domain/OnlineBean.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/classes/domain/UserBean.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/classes/service/AddOnlineUser.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/classes/service/AddUsers.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/classes/service/Checkuser.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/classes/service/DelOnlineuser.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/classes/service/Equipment.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/classes/service/GetMessage.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/classes/service/Save.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/classes/service/SendMessage.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/classes/service/Sumuser.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/classes/service/Users.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/classes/servlet/ChatServlet.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/classes/servlet/ChatwindowServlet.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/classes/servlet/DelOnlineuserServlet.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/classes/servlet/LoginServlet.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/classes/servlet/MessageServlet.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/classes/servlet/OnlineUsersServlet.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/classes/servlet/RegisterServlet.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/classes/servlet/SavaServlet.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/classes/servlet/SearchUsersServlet.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/classes/servlet/SumServlet.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/classes/servlet/UsersServlet.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Oracle_link.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/dao/Myoracle.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/dao/SelectOperate.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/dao/UpdateOperate.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/domain/OnlineBean.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/domain/UserBean.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/service/AddOnlineUser.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/service/AddUsers.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/service/Checkuser.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/service/DelOnlineuser.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/service/Equipment.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/service/GetMessage.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/service/Save.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/service/SendMessage.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/service/Sumuser.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/service/Users.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/servlet/ChatServlet.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/servlet/ChatwindowServlet.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/servlet/DelOnlineuserServlet.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/servlet/LoginServlet.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/servlet/MessageServlet.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/servlet/OnlineUsersServlet.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/servlet/RegisterServlet.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/servlet/SavaServlet.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/servlet/SearchUsersServlet.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/servlet/SumServlet.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/servlet/UsersServlet.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/聊天纪录/发.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/聊天纪录/发.properties" />
+    </list>
+    <ignored path="$PROJECT_DIR$/build/classes/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="205" />
+    <option name="y" value="160" />
+    <option name="width" value="1386" />
+    <option name="height" value="788" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ChattingHouse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ChattingHouse" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1f9506bf-d141-441a-8234-a9b9addd4346" name="Default" comment="" />
+      <created>1582006956780</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582006956780</updated>
+      <workItem from="1582006966799" duration="757000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="757000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="22" width="1382" height="754" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32901135" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.6399395" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+</project>
